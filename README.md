@@ -1,6 +1,6 @@
 # SC GRATIS ANJING 
 
-# YG BLM INSTAL BAHAN DLU AJG
+# install bahan dulu sono
 
 $ git clone https://github.com/Bjorka-id/CMBF-Free.git
 
